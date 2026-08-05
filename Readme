@@ -1,0 +1,70 @@
+# 🏙️ Dubai Housing Market Analysis
+
+## 📌 Project Overview
+
+This project analyzes the Dubai housing market to identify trends in property sales, prices, locations, and property types. The objective is to transform raw real estate data into meaningful business insights using data analysis and visualization techniques.
+
+## 🎯 Objectives
+
+* Analyze overall property sales performance.
+* Identify top-performing property types.
+* Compare sales across different locations.
+* Analyze monthly and yearly sales trends.
+* Study the impact of property status and value bands.
+* Build an interactive dashboard for decision-making.
+
+## 📊 Dataset
+
+The dataset contains property transaction records from the Dubai real estate market, including:
+
+* Instance Date
+* Procedure
+* Type - Free hold/non-free hold
+* property type - 
+* Transaction value
+* Actual area
+* Rooms
+* Nearest Metro station
+* Nearest Mall
+* Project - holder
+*Price per sqr mtr
+*Size category
+*Value band
+
+## 🛠️ Tools & Technologies
+* Power BI
+* Microsoft Excel
+
+## 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Dashboard Development
+6. Business Insights
+
+## 📈 Key Insights
+
+* Identified monthly and yearly sales trends.
+* Compared performance across different property types.
+* Analyzed sales by property status and value bands.
+* Discovered top-performing locations based on transaction value.
+* Highlighted seasonal trends and customer buying patterns.
+
+## 🚀 Dashboard Features
+
+* KPI Cards
+* Monthly Sales Trend
+* Property Type Analysis
+* Property Status Analysis
+* Value Band Analysis
+* Location-wise Performance
+* Interactive Filters & Slicers
+
+## 📬 Contact
+
+**Mohsin**
+
+* GitHub: *(https://github.com/mmohsin8077-debug)*
+* LinkedIn: *(linkedin.com/in/mohammad-mohsin-b6766a294)*
