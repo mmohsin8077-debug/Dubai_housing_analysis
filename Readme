@@ -5,8 +5,9 @@
 This project analyzes the Dubai housing market to identify trends in property sales, prices, locations, and property types. The objective is to transform raw real estate data into meaningful business insights using data analysis and visualization techniques.
 
 ##Dashboard
-
-
+![Dubai Housing Dashboard](dubai_housing.png)
+##Business summary
+![Dubai Housing Dashboard](business_summary.png)
 ## 🎯 Objectives
 
 * Analyze overall property sales performance.
